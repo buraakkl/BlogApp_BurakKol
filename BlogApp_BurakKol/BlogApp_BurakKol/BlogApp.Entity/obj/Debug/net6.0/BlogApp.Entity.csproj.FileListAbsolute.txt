@@ -1,0 +1,24 @@
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Entity\bin\Debug\net6.0\BlogApp.Entity.deps.json
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Entity\bin\Debug\net6.0\BlogApp.Entity.dll
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Entity\bin\Debug\net6.0\BlogApp.Entity.pdb
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Entity\obj\Debug\net6.0\BlogApp.Entity.csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Entity\obj\Debug\net6.0\BlogApp.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Entity\obj\Debug\net6.0\BlogApp.Entity.AssemblyInfoInputs.cache
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Entity\obj\Debug\net6.0\BlogApp.Entity.AssemblyInfo.cs
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Entity\obj\Debug\net6.0\BlogApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Entity\obj\Debug\net6.0\BlogApp.Entity.dll
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Entity\obj\Debug\net6.0\refint\BlogApp.Entity.dll
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Entity\obj\Debug\net6.0\BlogApp.Entity.pdb
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Entity\obj\Debug\net6.0\ref\BlogApp.Entity.dll
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Entity\bin\Debug\net6.0\BlogApp.Entity.deps.json
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Entity\bin\Debug\net6.0\BlogApp.Entity.dll
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Entity\bin\Debug\net6.0\BlogApp.Entity.pdb
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Entity\obj\Debug\net6.0\BlogApp.Entity.csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Entity\obj\Debug\net6.0\BlogApp.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Entity\obj\Debug\net6.0\BlogApp.Entity.AssemblyInfoInputs.cache
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Entity\obj\Debug\net6.0\BlogApp.Entity.AssemblyInfo.cs
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Entity\obj\Debug\net6.0\BlogApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Entity\obj\Debug\net6.0\BlogApp.Entity.dll
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Entity\obj\Debug\net6.0\refint\BlogApp.Entity.dll
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Entity\obj\Debug\net6.0\BlogApp.Entity.pdb
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Entity\obj\Debug\net6.0\ref\BlogApp.Entity.dll

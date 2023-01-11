@@ -1,0 +1,53 @@
+﻿@{
+    ViewData["Title"] = "All Blogs List";
+}
+
+@model BlogViewModel
+
+    <div class="row">
+        <div class="col-3">
+        @* Categories gelecek *@
+            @*@await Component.InvokeAsync("CategorizedBlogs")*@
+        </div>
+        <div class="col-9">
+
+                <div class="row">
+            @foreach (var blog in Model.Blogs)
+                {
+                    <partial name="_Blog" model="blog" />
+                }
+                </div>
+        
+
+        <nav>
+            <ul class="pagination">
+                <li class="page-item disabled">
+                    <a class="page-link">Previous</a>
+                </li>
+
+                @for (int i = 0; i < Model.PageInfo.TotalPages(); i++)
+                {
+
+                    if (string.IsNullOrEmpty(Model.PageInfo.CurrentCategory))
+                    {
+                                <li class='page-item @(Model.PageInfo.CurrentPage==i+1 ? "active" : "")'>
+                                    <a class="page-link"
+                       href="/teachers?page=@(i+1)">@(i + 1)</a>
+                                </li>
+                    }
+                    else
+                    {
+                                <li class='page-item @(Model.PageInfo.CurrentPage==i+1 ? "active" : "")'>
+                                    <a class="page-link"
+                       href="/teachers/@Model.PageInfo.CurrentCategory?page=@(i+1)">@(i + 1)</a>
+                                </li>
+                    }
+                }
+
+                <li class="page-item">
+                    <a class="page-link" href="#">Next</a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+</div>

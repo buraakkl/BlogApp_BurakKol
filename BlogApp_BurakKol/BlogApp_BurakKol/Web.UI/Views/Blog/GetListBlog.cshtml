@@ -1,0 +1,19 @@
+﻿@model BlogViewModel
+
+<div class="row">
+    <div class="col-3">
+
+        @*@await Component.InvokeAsync("CategorizedBlogs")*@
+        @*Bu componenti eğitim seviyelerini listelemek için yaptım.*@
+
+    </div>
+    <div class="col-9">
+                <div class="row">
+                        @foreach (var blog in Model.Blogs)
+                        {
+                            <partial name="_Blog" model="blog" />
+                        }
+                </div>
+
+    </div>
+</div> 

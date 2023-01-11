@@ -1,0 +1,27 @@
+﻿@*Bu partialView'i sadece bir bloğu listelemek için oluşturdum.*@
+@model Blog
+
+
+<link rel="stylesheet" href="~/css//blog.css" asp-append-version="true" />
+
+
+<div class="col-6">
+    <section class="mx-auto mb-5" style="max-width: 23rem;">
+        <div class="card testimonial-card mb-3" style="height: 400px">
+            <div class="card-up aqua-gradient"></div>
+            <div class="avatar mx-auto white">
+                @*<img src="~/images/@Model.Image" style="object-fit: cover" class="img-fluid">*@
+            </div>
+            <div class="card-body text-center">
+                <h4 class="card-title font-weight-bold">@Model.BlogTitle</h4>
+
+                <hr>
+                <p>
+                    <i class="fas fa-quote-left"></i>@Model.BlogName
+                </p>
+                <a class="btn btn-sm btn-success" asp-controller="Blog" asp-action="BlogDetails">Details</a>
+            </div>
+        </div>
+
+    </section>
+</div>

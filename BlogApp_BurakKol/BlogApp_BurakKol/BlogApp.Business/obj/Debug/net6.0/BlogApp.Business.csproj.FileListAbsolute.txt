@@ -1,0 +1,34 @@
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Business\bin\Debug\net6.0\BlogApp.Business.deps.json
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Business\bin\Debug\net6.0\BlogApp.Business.dll
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Business\bin\Debug\net6.0\BlogApp.Business.pdb
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Business\obj\Debug\net6.0\BlogApp.Business.csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Business\obj\Debug\net6.0\BlogApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Business\obj\Debug\net6.0\BlogApp.Business.AssemblyInfoInputs.cache
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Business\obj\Debug\net6.0\BlogApp.Business.AssemblyInfo.cs
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Business\obj\Debug\net6.0\BlogApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Business\obj\Debug\net6.0\BlogApp.Business.dll
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Business\obj\Debug\net6.0\refint\BlogApp.Business.dll
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Business\obj\Debug\net6.0\BlogApp.Business.pdb
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Business\obj\Debug\net6.0\ref\BlogApp.Business.dll
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Business\bin\Debug\net6.0\BlogApp.Data.dll
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Business\bin\Debug\net6.0\BlogApp.Entity.dll
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Business\bin\Debug\net6.0\BlogApp.Data.pdb
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Business\bin\Debug\net6.0\BlogApp.Entity.pdb
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Business\obj\Debug\net6.0\BlogApp.Business.csproj.CopyComplete
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Business\bin\Debug\net6.0\BlogApp.Business.deps.json
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Business\bin\Debug\net6.0\BlogApp.Business.dll
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Business\bin\Debug\net6.0\BlogApp.Business.pdb
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Business\bin\Debug\net6.0\BlogApp.Data.dll
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Business\bin\Debug\net6.0\BlogApp.Entity.dll
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Business\bin\Debug\net6.0\BlogApp.Data.pdb
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Business\bin\Debug\net6.0\BlogApp.Entity.pdb
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Business\obj\Debug\net6.0\BlogApp.Business.csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Business\obj\Debug\net6.0\BlogApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Business\obj\Debug\net6.0\BlogApp.Business.AssemblyInfoInputs.cache
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Business\obj\Debug\net6.0\BlogApp.Business.AssemblyInfo.cs
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Business\obj\Debug\net6.0\BlogApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Business\obj\Debug\net6.0\BlogApp.Business.csproj.CopyComplete
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Business\obj\Debug\net6.0\BlogApp.Business.dll
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Business\obj\Debug\net6.0\refint\BlogApp.Business.dll
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Business\obj\Debug\net6.0\BlogApp.Business.pdb
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\BlogApp.Business\obj\Debug\net6.0\ref\BlogApp.Business.dll

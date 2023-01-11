@@ -1,0 +1,132 @@
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\appsettings.json
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\Web.UI.staticwebassets.runtime.json
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\Web.UI.exe
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\Web.UI.deps.json
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\Web.UI.runtimeconfig.json
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\Web.UI.dll
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\Web.UI.pdb
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\Web.UI.csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\Web.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\Web.UI.AssemblyInfoInputs.cache
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\Web.UI.AssemblyInfo.cs
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\Web.UI.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\Web.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\Web.UI.RazorAssemblyInfo.cache
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\Web.UI.RazorAssemblyInfo.cs
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\staticwebassets\msbuild.Web.UI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\staticwebassets\msbuild.build.Web.UI.props
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Web.UI.props
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Web.UI.props
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\scopedcss\bundle\Web.UI.styles.css
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\scopedcss\projectbundle\Web.UI.bundle.scp.css
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\Web.UI.dll
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\refint\Web.UI.dll
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\Web.UI.pdb
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\Web.UI.genruntimeconfig.cache
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\ref\Web.UI.dll
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\BlogApp.Business.dll
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\BlogApp.Data.dll
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\BlogApp.Entity.dll
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\BlogApp.Business.pdb
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\BlogApp.Data.pdb
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\BlogApp.Entity.pdb
+C:\Users\burak\Desktop\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\Web.UI.csproj.CopyComplete
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\appsettings.json
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\Web.UI.staticwebassets.runtime.json
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\Web.UI.exe
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\Web.UI.deps.json
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\Web.UI.runtimeconfig.json
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\Web.UI.dll
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\Web.UI.pdb
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\BlogApp.Business.dll
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\BlogApp.Data.dll
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\BlogApp.Entity.dll
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\BlogApp.Business.pdb
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\BlogApp.Data.pdb
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\bin\Debug\net6.0\BlogApp.Entity.pdb
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\Web.UI.csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\Web.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\Web.UI.AssemblyInfoInputs.cache
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\Web.UI.AssemblyInfo.cs
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\Web.UI.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\Web.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\Web.UI.RazorAssemblyInfo.cache
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\Web.UI.RazorAssemblyInfo.cs
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\staticwebassets\msbuild.Web.UI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\staticwebassets\msbuild.build.Web.UI.props
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Web.UI.props
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Web.UI.props
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\scopedcss\bundle\Web.UI.styles.css
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\scopedcss\projectbundle\Web.UI.bundle.scp.css
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\Web.UI.csproj.CopyComplete
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\Web.UI.dll
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\refint\Web.UI.dll
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\Web.UI.pdb
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\Web.UI.genruntimeconfig.cache
+C:\Users\burak\Desktop\Blog_App Yedek\BlogApp_BurakKol\BlogApp_BurakKol\Web.UI\obj\Debug\net6.0\ref\Web.UI.dll
